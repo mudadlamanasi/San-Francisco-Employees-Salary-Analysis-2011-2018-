@@ -67,7 +67,7 @@ The project includes an interactive Tableau dashboard featuring:
 - Breakdown of pay components (BasePay, OvertimePay, OtherPay, Benefits)  
 - Filters for year and job title for interactive exploration  
 
-**[Tableau Dashboard Link Placeholder]**
+**Link of the Tableau Dahsboard: https://public.tableau.com/views/SanFranciscoEmployeeSalary/SanFranciscoEmployeeSalary2011-2018?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
 ## 📌 Results & Takeaways
 
